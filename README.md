@@ -9,8 +9,7 @@ The theme is easily installable as a Python package
 ```
 pip install sv-ttk
 ```
-
-
+ 
 ### Usage
 ❕**Note:**
 _The theme will only work with themable (`tkinter.ttk`) widgets, and not with plain Tkinter widgets, these will only get the colorscheme.
